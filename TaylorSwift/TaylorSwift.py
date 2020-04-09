@@ -1,3 +1,3 @@
 import pygame
 
-print("hiss")
+print("nibbas in paris")
